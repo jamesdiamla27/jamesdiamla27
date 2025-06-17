@@ -26,7 +26,7 @@
 > An advanced scheduling system for creating, managing, and optimizing timetables for faculty, students, and admins.  
 > Built with a full-stack architecture and intuitive UI for easy planning and conflict detection.
 
-**Tech Used:** `Next.js`, `Node.js`, `MySQL`, `FullCalendar`, `Bootstrap`
+**Tech Used:** `PHP`, `Javascript`, `jQuery` `MySQL`, `FullCalendar`, `Bootstrap`
 
 ---
 
