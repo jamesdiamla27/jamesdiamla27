@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+James+Diamla;A+Full-Stack+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+James+Diamla;A+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -20,23 +22,23 @@
 
 ## 🚀 Projects
 
-### 📚 **WKSLMS**  
+### 📚 **WKSLMS**
 > A Learning Management System (LMS) that streamlines course delivery, student tracking, and resource management.  
 > Developed with modern web technologies ensuring scalability and a user-friendly experience.
 
 **Tech Used:** `Next.js`, `Node.js`, `MySQL`, `Tailwind CSS`
 
-[🔗 View Project](https://github.com/jamesdiamla27/wkslms) — *(replace with your actual link)*
+[🔗 View Project](https://github.com/jamesdiamla27/wkslms) — *(update with actual link if needed)*
 
 ---
 
-### 🕒 **ChronoSchedio**  
+### 🕒 **ChronoSchedio**
 > An advanced scheduling system for creating, managing, and optimizing timetables for faculty, students, and admins.  
 > Built with a full-stack architecture and intuitive UI for easy planning and conflict detection.
 
 **Tech Used:** `Next.js`, `Node.js`, `MySQL`, `FullCalendar`, `Bootstrap`
 
-[🔗 View Project](https://github.com/jamesdiamla27/chronoschedio) — *(replace with your actual link)*
+[🔗 View Project](https://github.com/jamesdiamla27/chronoschedio) — *(update with actual link if needed)*
 
 ---
 
