@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,nodejs" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,java,cs,nodejs" alt="Tech Stack" />
 </p>
 
 ---
@@ -45,10 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jamesdiamla27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesdiamla27&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
