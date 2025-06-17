@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70045&width=435&lines=Hi+there%F0%9F%91%8B;I'm+James+Diamla;A+Full-Stack+Developer)](https://git.io/typing-svg)
+    <img src"https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70045&width=435&lines=Hi+there%F0%9F%91%8B;I'm+James+Diamla;A+Full-Stack+Developer" alt="james diamla" />
   </a>
 </p>
 
@@ -61,9 +61,9 @@
 ## 📫 Connect with me
 
 <p align="center">
-  ✉️ <a href="mailto:your-email@example.com">Email</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/jamesdiamla">LinkedIn</a> &nbsp;|&nbsp;
-  🌐 <a href="https://your-portfolio-link.com">Portfolio</a>
+  ✉️ <a href="mailto:jamesdiamla27@gmail.com">Email</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/james-diamla-010476265/">LinkedIn</a> &nbsp;|&nbsp;
+  🌐 <a href="https://my-portfolio-james-diamla.vercel.app">Portfolio</a>
 </p>
 
 ---
