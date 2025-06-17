@@ -20,8 +20,6 @@
 
 **Tech Used:** `Next.js`, `Node.js`, `MySQL`, `Tailwind CSS`
 
-[🔗 View Project](https://github.com/jamesdiamla27/wkslms) — *(replace with your actual repo or live link)*
-
 ---
 
 ### 🕒 **ChronoSchedio**  
@@ -30,15 +28,11 @@
 
 **Tech Used:** `Next.js`, `Node.js`, `MySQL`, `FullCalendar`, `Bootstrap`
 
-[🔗 View Project](https://github.com/jamesdiamla27/chronoschedio) — *(replace with your actual repo or live link)*
-
 ---
 
 ## 📊 GitHub Stats
 
 ![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamesdiamla27&show_icons=true&theme=tokyonight&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesdiamla27&theme=tokyonight)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesdiamla27&theme=tokyo-night)
 
