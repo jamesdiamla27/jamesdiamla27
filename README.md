@@ -1,24 +1,46 @@
 ## Hi there 👋 I'm James Diamla
 
 🎓 **Fresh Graduate Full-Stack Developer** passionate about building robust, clean, and user-friendly web applications.  
-💻 Proficient in designing modern web solutions with **JavaScript, Java, C#, Node.js, HTML5, and CSS**.  
+💻 Skilled in **JavaScript, Java, C#, Node.js, HTML5, and CSS**.  
 🚀 Eager to learn, grow, and make an impact through innovative software solutions!
 
 ---
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,java,cs,nodejs)
+![Tech Skills](https://skillicons.dev/icons?i=html,css,js,java,cs,nodejs)
+
+---
+
+## 🚀 Projects
+
+### 📚 **WKSLMS**  
+> A Learning Management System (LMS) that streamlines course delivery, student tracking, and resource management.  
+> Developed with modern web technologies ensuring scalability and a user-friendly experience.
+
+**Tech Used:** `Next.js`, `Node.js`, `MySQL`, `Tailwind CSS`
+
+[🔗 View Project](https://github.com/jamesdiamla27/wkslms) — *(replace with your actual repo or live link)*
+
+---
+
+### 🕒 **ChronoSchedio**  
+> An advanced scheduling system for creating, managing, and optimizing timetables for faculty, students, and admins.  
+> Built with a full-stack architecture and intuitive UI for easy planning and conflict detection.
+
+**Tech Used:** `Next.js`, `Node.js`, `MySQL`, `FullCalendar`, `Bootstrap`
+
+[🔗 View Project](https://github.com/jamesdiamla27/chronoschedio) — *(replace with your actual repo or live link)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdiamla27&show_icons=true&theme=tokyonight&count_private=true)
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamesdiamla27&show_icons=true&theme=tokyonight&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jamesdiamla27&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesdiamla27&theme=tokyonight)
 
-[![James's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamesdiamla27&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesdiamla27&theme=tokyo-night)
 
 ---
 
@@ -26,7 +48,7 @@
 
 - ✉️ [Email](mailto:your-email@example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jamesdiamla)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ---
 
