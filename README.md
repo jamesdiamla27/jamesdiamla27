@@ -1,14 +1,20 @@
-## Hi there 👋 I'm James Diamla
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+James+Diamla;A+Full-Stack+Developer" alt="Typing SVG" />
+</p>
 
-🎓 **Fresh Graduate Full-Stack Developer** passionate about building robust, clean, and user-friendly web applications.  
-💻 Skilled in **JavaScript, Java, C#, Node.js, HTML5, and CSS**.  
-🚀 Eager to learn, grow, and make an impact through innovative software solutions!
+<p align="center">
+  🎓 <strong>Fresh Graduate Full-Stack Developer</strong> passionate about building robust, clean, and user-friendly web applications.<br>
+  💻 Skilled in <strong>JavaScript, Java, C#, Node.js, HTML5, and CSS</strong>.<br>
+  🚀 Eager to learn, grow, and make an impact through innovative software solutions!
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Tech Skills](https://skillicons.dev/icons?i=html,css,js,java,cs,nodejs)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,nodejs" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -20,29 +26,43 @@
 
 **Tech Used:** `Next.js`, `Node.js`, `MySQL`, `Tailwind CSS`
 
+[🔗 View Project](https://github.com/jamesdiamla27/wkslms) — *(replace with your actual link)*
+
 ---
 
 ### 🕒 **ChronoSchedio**  
 > An advanced scheduling system for creating, managing, and optimizing timetables for faculty, students, and admins.  
 > Built with a full-stack architecture and intuitive UI for easy planning and conflict detection.
 
-**Tech Used:** `PHP`, `Javascript`, `jQuery` `MySQL`, `FullCalendar`, `Bootstrap`
+**Tech Used:** `Next.js`, `Node.js`, `MySQL`, `FullCalendar`, `Bootstrap`
+
+[🔗 View Project](https://github.com/jamesdiamla27/chronoschedio) — *(replace with your actual link)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamesdiamla27&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamesdiamla27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesdiamla27&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesdiamla27&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesdiamla27&theme=tokyo-night" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 📫 Connect with me
 
-- ✉️ [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jamesdiamla)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+<p align="center">
+  ✉️ <a href="mailto:your-email@example.com">Email</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/jamesdiamla">LinkedIn</a> &nbsp;|&nbsp;
+  🌐 <a href="https://your-portfolio-link.com">Portfolio</a>
+</p>
 
 ---
 
