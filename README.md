@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F71343&width=435&lines=Hi+there+👋;I'm+James+Diamla;A+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F71343&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+James+Diamla;A+Full-Stack+Developer" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   🎓 <strong>Fresh Graduate Full-Stack Developer</strong> passionate about building robust, clean, and user-friendly web applications.<br>
