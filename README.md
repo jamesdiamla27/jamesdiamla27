@@ -26,8 +26,6 @@
 
 **Tech Used:** `Next.js`, `Node.js`, `MySQL`, `Tailwind CSS`
 
-[🔗 View Project](https://github.com/jamesdiamla27/wkslms) — *(update with actual link if needed)*
-
 ---
 
 ### 🕒 **ChronoSchedio**
@@ -35,8 +33,6 @@
 > Built with a full-stack architecture and intuitive UI for easy planning and conflict detection.
 
 **Tech Used:** `Next.js`, `Node.js`, `MySQL`, `FullCalendar`, `Bootstrap`
-
-[🔗 View Project](https://github.com/jamesdiamla27/chronoschedio) — *(update with actual link if needed)*
 
 ---
 
