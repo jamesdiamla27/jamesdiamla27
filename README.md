@@ -24,7 +24,7 @@
 > A Learning Management System (LMS) that streamlines course delivery, student tracking, and resource management.  
 > Developed with modern web technologies ensuring scalability and a user-friendly experience.
 
-**Tech Used:** `Next.js`, `Node.js`, `MySQL`, `Tailwind CSS`
+**Tech Used:** `Next.js`, `Node.js`, `Firebase`, `Tailwind CSS`, `Typescript`
 
 ---
 
@@ -32,7 +32,7 @@
 > An advanced scheduling system for creating, managing, and optimizing timetables for faculty, students, and admins.  
 > Built with a full-stack architecture and intuitive UI for easy planning and conflict detection.
 
-**Tech Used:** `Next.js`, `Node.js`, `MySQL`, `FullCalendar`, `Bootstrap`
+**Tech Used:** `PHP`, `Javascript`, `MySQL`, `FullCalendar`, `Bootstrap`
 
 ---
 
