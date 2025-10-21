@@ -70,7 +70,7 @@
 <p align="center">
   ✉️ <a href="mailto:jamesdiamla27@gmail.com">Email</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/jamesdiamla0827/">LinkedIn</a> &nbsp;|&nbsp;
-  🌐 <a href="https://my-portfolio-james-diamla.vercel.app">Portfolio</a>
+  🌐 <a href="https://jamesdiamla.vercel.app">Portfolio</a>
 </p>
 
 ---
